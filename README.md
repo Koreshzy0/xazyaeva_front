@@ -1,5 +1,4 @@
 # xazyaeva_front
-donation project
 
 Frontend - Vue.js Application
 
